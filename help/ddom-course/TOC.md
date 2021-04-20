@@ -3,7 +3,7 @@ user-guide-title: Adobe datadriven driftmodellguide
 breadcrumb-title: Handbok för datadriven operativmodell
 user-guide-description: Titta på dessa videofilmer och lär dig hur du använder Adobe datadriven operativmodell.
 solution: Experience Cloud
-type: Självstudiekurs
+type: Tutorial
 hide: true
 translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
