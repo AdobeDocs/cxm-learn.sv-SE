@@ -2,14 +2,13 @@
 title: Leverans
 description: Det här är artikelöversikten.
 keywords: DDOM, leverans
-translation-type: tm+mt
-source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
+exl-id: 42d0b3bd-178c-40c7-bcb0-b924310eccf2
+source-git-commit: 5a22a4f547b02989e175a15598516b80d7711cac
 workflow-type: tm+mt
 source-wordcount: '11'
 ht-degree: 0%
 
 ---
-
 
 # Översikt över slutprodukter
 
