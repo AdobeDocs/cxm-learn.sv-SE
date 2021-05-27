@@ -5,16 +5,15 @@ user-guide-description: Titta på dessa videofilmer och lär dig hur du använde
 solution: Experience Cloud
 type: Tutorial
 hide: true
-translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
 
-# Handbok för datadriven operativmodell för Adobe {#ddom}
+# Adobe datadriven driftmodellguide {#ddom}
 
 + [Översikt](overview.md)
 + [Introduktion till DDOM](ddom-introduction.md)
