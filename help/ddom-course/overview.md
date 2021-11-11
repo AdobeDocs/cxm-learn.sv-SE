@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Adobe datadriven operativmodell (DDOM)
 
-Välkommen till en översikt över DDOM (Adobe Data-Driven Operating Model). I den här kursen lär du dig av [!DNL Adobe Digital Strategy Group] om den digitala omvandlingsberättelsen för Adobe, DDOM:s tre huvudpelare och exempel på insikter från DDOM.
+Välkommen till en översikt över DDOM (Adobe Data-Driven Operating Model). I den här kursen lär du dig av [!DNL Adobe Digital Strategy Group] om den digitala omvandlingsberättelsen för Adobe, DDOM:s tre huvudpelare och exempelinsikter som DDOM har avslöjat.
 
 * [Introduktion till DDOM](ddom-introduction.md)
 * [Adobe Digital Transformation Story](transformation-story.md)
