@@ -1,29 +1,16 @@
 ---
-source-git-commit: ea774529b25ecca51d3eabce9884df283c38fc24
+source-git-commit: 5b705a893aeadab40ac26e824620b3a6f31a6fec
 workflow-type: tm+mt
-translation-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # MIT-licens
 
-© Copyright 2018 Adobe. Med ensamrätt.
+© Copyright 2021 Adobe. All Rights Reserved.
 
-Tillstånd beviljas härmed, utan kostnad, till varje person som erhåller en kopia
-av denna programvara och tillhörande dokumentationsfiler (&quot;Programvaran&quot;), för att
-i Programvaran utan begränsning, inklusive utan begränsning rättigheterna
-att använda, kopiera, modifiera, sammanfoga, publicera, distribuera, underlicensiera och/eller sälja
-kopior av Programvaran och för att tillåta personer till vilka Programvaran är
-som tillhandahålls för detta, på följande villkor:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-Upphovsrättsmeddelandet och detta tillståndsmeddelande ska ingå i alla
-kopior eller väsentliga delar av Programvaran.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-PROGRAMVARAN TILLHANDAHÅLLS I BEFINTLIGT SKICK, UTAN GARANTI AV NÅGOT SLAG, UTTRYCK ELLER
-UNDERFÖRSTÅTT, INKLUSIVE MEN INTE BEGRÄNSAT TILL GARANTIER FÖR SÄLJBARHET,
-LÄMPLIGHET FÖR ETT VISST SYFTE OCH ICKE-ÖVERTRÄDELSE. I INGET FALL SKA
-FÖRFATTARE ELLER UPPHOVSRÄTTSINNEHAVARE KAN ANSVARA FÖR ANSPRÅK, SKADOR ELLER ANDRA
-ANSVAR, OAVSETT OM DET ÄR EN AVTALSAVTAL, TORT ELLER ANNAT, SOM UPPSTÅR FRÅN,
-UTANFÖR ELLER I SAMBAND MED PROGRAMVARAN, ANVÄNDNINGEN ELLER ANDRA HANTERINGAR I
-PROGRAMVARA.
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
