@@ -8,7 +8,7 @@ hide: true
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 0%
 + [Introduktion till DDOM](ddom-introduction.md)
 + [Adobe Digital Transformation Story](transformation-story.md)
 + [DDOM&#39;s Three Core Pillars](ddom-components.md)
-+ [Insikter som inte täcks av DDOM](ddom-insights.md)
++ [Insights som visades av en DDOM](ddom-insights.md)
