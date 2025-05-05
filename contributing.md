@@ -18,7 +18,7 @@ Detta projekt följer Adobes [uppförandekod](code-of-conduct.md). Genom att del
 
 ## Dokumentation för användarhandboken för bidragsgivare
 
-Se [Användarhandboken för bidragsgivare](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Se [Användarhandboken för bidragsgivare](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=sv-SE).
 
 ## Har du en fråga?
 
